@@ -31,7 +31,7 @@ public class Exercicio {
 		float n1 = 0, n2 = 0, n3 = 0;
 		String operacao = "";
 
-		// lista de operações
+		// lista de operações - alteração 2
 		listaOperacoes = popularLista(listaOperacoes);
 
 		System.out.println("Digite uma operação:\n MULTIPLICAÇÃO(*)\n SUBTRAÇÃO    (-)\n DIVISÃO      (/)\n SOMA         (+)");
